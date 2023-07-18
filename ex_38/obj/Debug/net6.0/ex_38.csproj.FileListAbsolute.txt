@@ -1,0 +1,15 @@
+/Users/admin/Desktop/seminar_5/ex_38/bin/Debug/net6.0/ex_38
+/Users/admin/Desktop/seminar_5/ex_38/bin/Debug/net6.0/ex_38.deps.json
+/Users/admin/Desktop/seminar_5/ex_38/bin/Debug/net6.0/ex_38.runtimeconfig.json
+/Users/admin/Desktop/seminar_5/ex_38/bin/Debug/net6.0/ex_38.dll
+/Users/admin/Desktop/seminar_5/ex_38/bin/Debug/net6.0/ex_38.pdb
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.csproj.AssemblyReference.cache
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.AssemblyInfoInputs.cache
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.AssemblyInfo.cs
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.dll
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/refint/ex_38.dll
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.pdb
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ex_38.genruntimeconfig.cache
+/Users/admin/Desktop/seminar_5/ex_38/obj/Debug/net6.0/ref/ex_38.dll
