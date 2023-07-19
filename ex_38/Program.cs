@@ -48,3 +48,5 @@ double maxValue = MaxArray(array);
 Console.WriteLine($"max = {maxValue}");
 double minValue = MinArray(array);
 Console.WriteLine($"min = {minValue}");
+double dif = maxValue - minValue;
+Console.WriteLine($"Разница между min и max = {dif}");
